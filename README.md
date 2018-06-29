@@ -1,0 +1,2 @@
+# BoboTech.SecretsManager
+Secrets manager
